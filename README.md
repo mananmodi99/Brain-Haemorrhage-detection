@@ -1,4 +1,5 @@
 # Brain-Haemorrhage-detection-and-Patient-Monitoring
+![image](https://user-images.githubusercontent.com/42277997/121149746-8b097300-c860-11eb-9e4c-be150ceeeeb9.png)
 
 ## Problem Statement:
 Intracerebral haemorrhage is an important public health problem leading to high rates of death and disability in adults. Although the number of hospital admissions for intracerebral haemorrhage has increased worldwide in the past 10 years, mortality has not fallen. Results of clinical trials and observational studies suggest that coordinated primary and specialty care is associated with lower mortality than is typical community practice. Development of treatment goals for critical care, and new sequences of care and specialty practice can improve outcome after intracerebral haemorrhage.
