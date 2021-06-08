@@ -46,3 +46,7 @@ c) Design an app for the user which will help them to know their vital readings 
 ## Demo
 Video Link: https://drive.google.com/file/d/1bTB9np5Jbv-qz5WiqrJQGKItkjI3eSnP/view?usp=sharing
 
+![image](https://user-images.githubusercontent.com/42277997/121150329-0d923280-c861-11eb-9cbf-22f507bef30d.png)
+![image](https://user-images.githubusercontent.com/42277997/121150992-9f01a480-c861-11eb-8a79-2ae06aa2c6b7.png)
+![image](https://user-images.githubusercontent.com/42277997/121151124-bb054600-c861-11eb-8ee6-f851a5711893.png)
+
