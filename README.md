@@ -42,6 +42,6 @@ a) Digitally process the heart rate and body temperature (using Arduino) which w
 b) Send the readings to the cloud using a Wi-Fi module, i.e., ESP8266 through the Arduino and use ThinkSpeak as our cloud service.
 c) Design an app for the user which will help them to know their vital readings and monitor their health accordingly.
 
-##Demo
+## Demo
 Video Link: https://drive.google.com/file/d/1bTB9np5Jbv-qz5WiqrJQGKItkjI3eSnP/view?usp=sharing
 
