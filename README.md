@@ -3,8 +3,7 @@
 
 ## Problem Statement:
 Intracerebral haemorrhage is an important public health problem leading to high rates of death and disability in adults. Although the number of hospital admissions for intracerebral haemorrhage has increased worldwide in the past 10 years, mortality has not fallen. Results of clinical trials and observational studies suggest that coordinated primary and specialty care is associated with lower mortality than is typical community practice. Development of treatment goals for critical care, and new sequences of care and specialty practice can improve outcome after intracerebral haemorrhage.
-The utilization of deep learning for clinical applications has expanded exponentially in the most recent decade. Regardless of whether it's to recognize diabetes utilizing retino-treatment, foresee pneumonia from Chest X-beams or check cells and measure organs utilizing image segmentation, deep learning is being used all over. Datasets are now being made uninhibitedly accessible for experts to fabricate models with. Moreover, with the advent of IoT, we can provide remote healthcare to patients who have been diagnosed with life-threatening diseases.
-Keeping all these points in mind, we aim to develop an end-to-end solution involving automated brain haemorrhage detection using computed topography and provide remote health monitoring.
+The utilization of deep learning for clinical applications has expanded exponentially in the most recent decade. Regardless of whether it's to recognize diabetes utilizing retino-treatment, foresee pneumonia from Chest X-beams or check cells and measure organs utilizing image segmentation, deep learning is being used all over. Datasets are now being made uninhibitedly accessible for experts to fabricate models with.
 
 ##Introduction
 Intracerebral hemorrhage is an important public health problem leading to high rates of death and disability in adults. Although the number of hospital admissions for intracerebral hemorrhage has increased worldwide in the past 10 years, mortality has not fallen. Results of clinical trials and observational studies suggest that coordinated primary and specialty care is associated with lower mortality than is typical community practice. Development of treatment goals for critical care, and new sequences of care and specialty practice can improve outcome after intracerebral hemorrhage.
@@ -37,11 +36,6 @@ By augmenting your dataset, you can achieve excellent results with a small amoun
 I chose Keras Deep Learning framework with Tensorflow backend to get the best results for Image Preprocessing and CNN(Resnet 52) for better accuracy and results
 
 80% of the dataset was used for training and 20% for testing.
-
-Patient Health Monitoring, we Develoed an IoT solution to provide remote, real-time body health monitoring that will continuously measure the heart rate and body temperature of the patient who is at risk of suffering from brain haemorrhage. To achieve this, we will:
-a) Digitally process the heart rate and body temperature (using Arduino) which will be detected using a pulse sensor and LM-35 sensor, respectively.
-b) Send the readings to the cloud using a Wi-Fi module, i.e., ESP8266 through the Arduino and use ThinkSpeak as our cloud service.
-c) Design an app for the user which will help them to know their vital readings and monitor their health accordingly.
 
 ## Demo
 Video Link: https://drive.google.com/file/d/1bTB9np5Jbv-qz5WiqrJQGKItkjI3eSnP/view?usp=sharing
