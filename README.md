@@ -40,7 +40,7 @@ I chose Keras Deep Learning framework with Tensorflow backend to get the best re
 ## Demo
 Video Link: https://drive.google.com/file/d/1bTB9np5Jbv-qz5WiqrJQGKItkjI3eSnP/view?usp=sharing
 
-![image](https://user-images.githubusercontent.com/42277997/121150329-0d923280-c861-11eb-9cbf-22f507bef30d.png)
+
 
 
 
