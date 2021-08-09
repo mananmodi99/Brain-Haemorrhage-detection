@@ -33,7 +33,7 @@ Some data augmentations examples are: adding noise or applying data transformati
 
 By augmenting your dataset, you can achieve excellent results with a small amount of data. I did a little research about data augmentations used specifically for medical imaging and it happens that when you add contrast to the images, model achieves a better accuracy. A variety of augmentation strategies can be used to get better results. Training the model
 
-I chose Keras Deep Learning framework with Tensorflow backend to get the best results for Image Preprocessing and CNN(Resnet 52) for better accuracy and results
+I chose Keras Deep Learning framework with Tensorflow backend to get the best results for Image Preprocessing and CNN for better accuracy and results. Accuracy can be improved by using VGG19 or Resnet50 pretrained model
 
 80% of the dataset was used for training and 20% for testing.
 
